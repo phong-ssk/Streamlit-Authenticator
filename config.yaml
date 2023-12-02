@@ -5,8 +5,8 @@ cookie:
 credentials:
   usernames:
     dbaldwin:
-      email: dbaldwin@gmail.com
-      name: David Baldwin
+      email: lehoangphong.0201@gmail.com
+      name: Lê Hoàng Phong
       password: $2b$12$E9/bCaN/r8sN/FV2l8NpgOgspUBAp7UAVU6BgsXJzp/pW8gQWCprC
     jsmith:
       email: jsmith@gmail.com
